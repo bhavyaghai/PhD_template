@@ -1,4 +1,4 @@
-# Stony Brook PhD Template 2023
+# Stony Brook PhD Thesis Template 2023
 
 My PhD thesis based on this template was approved by ProQuest in 2023.  
 This template is originally based on [this](https://www.overleaf.com/latex/templates/stony-brook-physics-phd-thesis-template/mbvckkwhfntf) template. The previous template is not accepted by Proquest due to some formatting issues. I have modified that template to accommodate the requirements of ProQuest.  
